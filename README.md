@@ -1,4 +1,4 @@
-# cool-todolist
+# Simple To-Do List using PHP
 Simple To-Do List built in php, jquery, bootstrap, html5, mysql
 
 # Main Goal
